@@ -1,69 +1,121 @@
-# 👋 Hi, I'm Ahmad Faizan
+now we will wowrk on an  attractive readme for git hub <h1 align="center">👋 Hi there, I'm Ahmad Faizan</h1>
 
-**Flutter & Web Developer** | **Software Engineering Student** | **Problem Solver**
-
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Faizan0345-khan&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Faizan0345-khan?logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/Faizan0345-khan?logo=github)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9C7C&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;Flutter+App+Developer;Full-Stack+Mobile+Dev;Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BS Software Engineering** at Abdul Wali Khan University, Mardan (2023-Present)
-- 📍 Based in Mardan, Pakistan
-- 💼 Experience: Shopify E-Commerce, Office Automation, Amazon Account Management
-- 💡 *"I turn coffee into code ☕ → 💻"*
+I'm a **Computer Science student** at **Abdul Wali Khan University Mardan**, passionate about crafting modern digital solutions that make a difference.
 
-### 🛠️ Tech Stack
+🔹 **Front-End Web Developer**  
+🔹 **Flutter App Developer**  
+🔹 **Full-Stack Mobile App Developer**
 
-**Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, GSAP  
-**Mobile:** Flutter, Dart  
-**Backend:** Supabase, Firebase, PostgreSQL, REST APIs  
-**Tools:** Git, VS Code, Android Studio, Figma
+### 🛠️ Hands-on Experience in:
+
+- Shopify Local E-Commerce  
+- Office Automation  
+- Amazon Account Management & Research  
+
+> 💡 I enjoy building clean, responsive websites and scalable mobile applications that solve real-world problems.
+
+---
+
+## 🚀 Technical Skills
+
+### 🌐 Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A0A0A?style=for-the-badge&logo=responsive&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-007ACC?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🧠 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+### 📊 Other Knowledge
+- Amazon Product Research  
+- Account Management  
+- E-commerce Operations  
 
 ---
 
 ## 📱 Featured Projects
 
-| Project | Tech | Links |
-|---------|------|-------|
-| 🎓 MedLecturesWalah | Flutter, Supabase, PostgreSQL | [GitHub](https://github.com/Faizan0345-khan) |
-| ⏰ PinchMe | Flutter, Riverpod, Supabase | [GitHub](https://github.com/Faizan0345-khan) |
-| 🎬 Netflix Clone | HTML, CSS, JS | [Live Demo](https://faizan0345-khan.github.io/netflix-clone/) |
-| 🛒 Titch Button | React, CSS Modules | [Live Demo](https://faizan0345-khan.github.io/Titch-World-v1/) |
-| 🎮 Game Saga | HTML, CSS, GSAP | [Live Demo](https://faizan0345-khan.github.io/Game-Saga-Website-Template/) |
-| 🛍️ Shopiflyz | TailwindCSS, React | [GitHub](https://github.com/Faizan0345-khan) |
+### 🎬 Netflix Clone
+> A responsive Netflix-inspired front-end clone built using HTML and CSS.
+
+**Tech Used:** `HTML` `CSS`
 
 ---
 
-## 🌐 Portfolio
+### 🌍 Multi-Page Responsive Website
+> A modern responsive website with multiple pages and optimized layout structure.
 
-🔗 [Visit My Portfolio](https://faizan0345-khan.github.io)
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan0345-khan&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faizan0345-khan&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan0345-khan&layout=compact&theme=tokyonight)
+**Tech Used:** `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🤝 Let's Connect
+### 📚 Educational Flutter App
+> A Flutter-based educational platform with video content integration.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Faizan0345-khan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmad-faizan-57311a272)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/not_xcalibur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:khansfaizan383@gmail.com)
+**Tech Used:** `Flutter` `Supabase` `Authentication`
 
 ---
+
+### 📁 File Management System (Flutter)
+> A mobile application focused on organized file handling and structured data management.
+
+**Tech Used:** `Flutter` `Dart`
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript  
+- Flutter Architecture  
+- API Integration  
+- Firebase / Supabase  
+- Responsive UI Design  
+
+---
+
+## 🎯 Goals
+
+- ✅ Become an expert **Flutter Developer**  
+- ✅ Build production-level mobile apps  
+- ✅ Contribute to **open-source** projects  
+- ✅ Work on impactful software solutions  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+
 
 <p align="center">
-  <i>"Code is not just about building apps — it's about solving problems."</i>
-</p>
+  <i>“Code is not just about building apps — it's about solving problems.”</i>
+</p> thsi is it
